@@ -1,5 +1,4 @@
 //hola
-
 public class Bicicleta extends Vehiculo{
     private String tipo;
 
