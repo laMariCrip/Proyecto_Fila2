@@ -1,3 +1,5 @@
+//hola
+
 package model.interfaces;
 
 public interface ICompra {
