@@ -1,5 +1,5 @@
 package com.fila2.yahia.items;
-// Esta es la clase Item.java
+// Esta es la clase Item
 
 public abstract class Item {
     protected String nombre;

@@ -1,6 +1,7 @@
 package com.fila2.yahia.items;
 // Clase para las pociones del juego
 
+
 public class Pocion extends Item {
     private int puntosCuracion;
 
