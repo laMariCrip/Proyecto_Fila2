@@ -1,3 +1,5 @@
+//clase herencia
+
 public class Coche extends Vehiculo{
     private int numeroPuertas;
     boolean aireAcondicionado;
