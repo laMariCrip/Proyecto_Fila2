@@ -10,7 +10,7 @@ public abstract class Item {
         this.descripcion = descripcion;
     }
     
-
+// He añadido otro comentario en Item.java
     public abstract void usar();
 
     public String descripcionCorta() {
