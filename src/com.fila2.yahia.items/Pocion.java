@@ -9,7 +9,7 @@ public class Pocion extends Item {
         super(nombre, descripcion);
         this.puntosCuracion = puntosCuracion;
     }
-
+// Este es un comentario
     @Override
     public void usar() {
         System.out.println("Has usado " + nombre + " y recuperas " + puntosCuracion + " puntos de vida.");
